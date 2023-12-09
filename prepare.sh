@@ -2,7 +2,7 @@
 # This is a comment
 # Сделаем файл исполняемым:
 
-#  chmod +x ./myscript
+#  chmod +x ./prepare
 
 sudo apt update
 sudo apt upgrade
